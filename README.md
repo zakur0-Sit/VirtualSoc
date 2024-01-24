@@ -1,1 +1,3 @@
 # VirtualSoc
+
+Create a client/server application that will simulate the functionality of a social network. The system offers the following: user registration (different types of users: regular, administrators). Users can set their profile and posts as public or private. Users can view the public posts of other users without being authenticated. All other commands will be restricted by authentication. The system will at least support the following operations: adding a friend to the list of friends (specifying the type of friend: close, acquaintance, etc.), posting a news item, it can be public or private). The system allows a private communication mechanism between 2 or more people.
